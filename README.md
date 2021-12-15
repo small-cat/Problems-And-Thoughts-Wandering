@@ -15,3 +15,11 @@
 - [五分钟搞定计算机体系结构（上）](http://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652680488&idx=1&sn=70b78f2b9324537e03c736b3178b8ce0&chksm=810ff7b5b6787ea3e18cbfe20a6fb4863c07dc10a773702a7ad00b25dc51f1d739d4fa5adb25&scene=21#wechat_redirect)
 - [五分钟搞定计算机体系结构（下）](http://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652680495&idx=1&sn=3afd859156790b3afcd91e24b988f76c&chksm=810ff7b2b6787ea4e3c6bd707736ea1fba9f4a2f2ab29fcd1ce668a2024aa3cdfa959d0778a8&scene=21#wechat_redirect)
 - [400 行 C 代码实现一个虚拟机](https://arthurchiao.art/blog/write-your-own-virtual-machine-zh/#1-%E5%BC%95%E8%A8%80)
+- [超强悍的日志传输存储架构，秒级百G](https://mp.weixin.qq.com/s?__biz=MzkwOTIxNDQ3OA==&mid=2247563676&idx=1&sn=0f26a82e1033529484ce71242a2f3b38&chksm=c13daffdf64a26ebd99a7dc3c8d280dd6d8fb3cda8629466b1555ec60e013a9e988f39b3585c&mpshare=1&scene=1&srcid=1215JFkE9JPjzk26NtyJ3LtK&sharer_sharetime=1639524182804&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A7aPZV%2Be%2BmzC9Kx%2F5T%2BZQSU%3D&pass_ticket=fYDNJExuAlUh4BP38rBiDHrjrpxt512R4dIP5uHJBuCr3brbGhINA048aZTOSLrf&wx_header=0#rd)
+
+# 编程
+- [My Rant on C++'s operator new](http://www.scs.stanford.edu/~dm/home/papers/c++-new.html)
+
+# 好玩的开源项目
+- [KalidoKit](https://github.com/yeemachine/kalidokit), [介绍](https://mp.weixin.qq.com/s?__biz=MjM5NzE1MDA0MQ==&mid=2247543050&idx=2&sn=e70334e361655320e2a5469527410ad8&chksm=a6dc053c91ab8c2a92b9643c0cfa0d62936d957e9f20af0a058eef75c90c8a8b247e3a222211&mpshare=1&scene=1&srcid=1215Gymzb2zO2SjM8e1YkrQN&sharer_sharetime=1639524326151&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A%2BhwZCvjYL%2BHxaPVL2EbuHg%3D&pass_ticket=fYDNJExuAlUh4BP38rBiDHrjrpxt512R4dIP5uHJBuCr3brbGhINA048aZTOSLrf&wx_header=0#rd)
+
