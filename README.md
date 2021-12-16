@@ -18,6 +18,10 @@
 - [超强悍的日志传输存储架构，秒级百G](https://mp.weixin.qq.com/s?__biz=MzkwOTIxNDQ3OA==&mid=2247563676&idx=1&sn=0f26a82e1033529484ce71242a2f3b38&chksm=c13daffdf64a26ebd99a7dc3c8d280dd6d8fb3cda8629466b1555ec60e013a9e988f39b3585c&mpshare=1&scene=1&srcid=1215JFkE9JPjzk26NtyJ3LtK&sharer_sharetime=1639524182804&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A7aPZV%2Be%2BmzC9Kx%2F5T%2BZQSU%3D&pass_ticket=fYDNJExuAlUh4BP38rBiDHrjrpxt512R4dIP5uHJBuCr3brbGhINA048aZTOSLrf&wx_header=0#rd)
 - [深入理解CPU流水线和分支预测](https://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&mid=2247490342&idx=1&sn=a33477aea52c0a64fb7772529956f22d&chksm=c21d299af56aa08c8426664eb8467e8713cb56d468e12b1fbcb8501bea310ce3628e1ccd63dc&mpshare=1&scene=1&srcid=1130PiCk9GGZHUm7IEayNG6K&sharer_sharetime=1638234833541&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=Awf64LbD7Iy19menHVTL0xM%3D&pass_ticket=fYDNJExuAlUh4BP38rBiDHrjrpxt512R4dIP5uHJBuCr3brbGhINA048aZTOSLrf&wx_header=0#rd)
 - [编译器都做了哪些优化](https://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&mid=2247485662&idx=1&sn=614b66ca5c130e8dd20d932bdc226c71&chksm=c21d3a62f56ab374ca07d1828b9a40b2494df4017fcf16d7490b62cb1ce6d23b22ddf479dda8&mpshare=1&scene=1&srcid=1208gvWpNqmHhMZDuYAY0Jaf&sharer_sharetime=1638967493538&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A%2FhcQyQGzbox7ycAsU4Askc%3D&pass_ticket=fYDNJExuAlUh4BP38rBiDHrjrpxt512R4dIP5uHJBuCr3brbGhINA048aZTOSLrf&wx_header=0#rd)
+- [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
+- [深入浅出 JIT 编译器](https://toutiao.io/posts/k12clm/preview)
+- [Hello, JIT World: The Joy of Simple JITs](https://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
+- [PgSQL · 特性分析· JIT 在数据仓库中的应用价值](http://mysql.taobao.org/monthly/2016/11/10/)
 
 # 编程
 - [My Rant on C++'s operator new](http://www.scs.stanford.edu/~dm/home/papers/c++-new.html)
