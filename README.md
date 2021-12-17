@@ -4,7 +4,7 @@
 # 算法
 - [有限状态机之 KMP 字符匹配算法](https://labuladong.gitee.io/algo/3/26/96/)
 
-# 文章
+# 技术文章
 - [五分钟搞不定系列- 1+1=?](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652680635&idx=1&sn=3a453f678aea5448a258eb8c022be748&chksm=810ff726b6787e304deded2b0bde7ce40033029062a1841fe7877879bc23d9ab6dc755dbb9e5&mpshare=1&scene=1&srcid=1213FMKCzaVittcW2wq1H8xZ&sharer_sharetime=1639358983780&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=AxvT4gxczLiGutW52Q8R5UA%3D&pass_ticket=HtplW%2FxTzy2mCdqb4eqbGLXJK3wUOwYUtH9ZmtcJ4FMbiimM3cvN433iJ6U9xJkp&wx_header=0#rd)
 - [五分钟搞不定系列-打通软硬件的任督二脉（1）](https://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652680702&idx=1&sn=bc7bdce32f2fa7ef2c621a5082e95380&chksm=810ff763b6787e75a0dc201a086ff08c74bbce4e475d0d1a73241d76c77d018f790c6193ef6d&mpshare=1&scene=1&srcid=1213AI63xB9WP0Q4Vxi7oXhp&sharer_sharetime=1639358945168&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=AwlVCC8QiZ%2FRb9x3E%2BPLc0M%3D&pass_ticket=HtplW%2FxTzy2mCdqb4eqbGLXJK3wUOwYUtH9ZmtcJ4FMbiimM3cvN433iJ6U9xJkp&wx_header=0#rd)
 - [芯片架构方法学](http://mp.weixin.qq.com/s?__biz=MzAwMDUwNDgxOA==&mid=2652671184&idx=1&sn=16bfce9af8d5650a71ab961ea463a2db&chksm=810fca4db678435b634cb431f9dfc1fe805a57409e9b2d2c068ef16b696b978265c46a0c23ea&scene=21#wechat_redirect)
@@ -22,6 +22,10 @@
 - [深入浅出 JIT 编译器](https://toutiao.io/posts/k12clm/preview)
 - [Hello, JIT World: The Joy of Simple JITs](https://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
 - [PgSQL · 特性分析· JIT 在数据仓库中的应用价值](http://mysql.taobao.org/monthly/2016/11/10/)
+- [meta programming](https://cs.lmu.edu/~ray/notes/metaprogramming/)
+
+# 其他文章
+- [高德纳 - 计算机界巨匠的生平](https://mp.weixin.qq.com/s?__biz=MjM5NzE1MDA0MQ==&mid=2247543173&idx=1&sn=95d2075139a7ef2efe295380f8ec7254&chksm=a6dc05b391ab8ca58543a6483a48af22cdb594d06fd5357ace918494ac3d810fe4022f97ba8c&mpshare=1&scene=1&srcid=1217G9S3ZXMhmxR3n9fyaeTQ&sharer_sharetime=1639704937213&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A0yTfCZJ%2F0mqDSqYL%2BtOzLA%3D&pass_ticket=5yULb%2FZ7LnCDjyVewwLCnbRpQhGFWp4wNZCK5cAAzhEy4a5IKXqAg6bNfIMg0cSE&wx_header=0#rd)
 
 # 编程
 - [My Rant on C++'s operator new](http://www.scs.stanford.edu/~dm/home/papers/c++-new.html)
