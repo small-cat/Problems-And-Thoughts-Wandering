@@ -23,6 +23,111 @@
 - [Hello, JIT World: The Joy of Simple JITs](https://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)
 - [PgSQL · 特性分析· JIT 在数据仓库中的应用价值](http://mysql.taobao.org/monthly/2016/11/10/)
 - [meta programming](https://cs.lmu.edu/~ray/notes/metaprogramming/)
+- [用数据流合成实现任务型对话](https://zhuanlan.zhihu.com/p/245081650)
+- [图像处理界双线性插值算法的优化](https://www.cnblogs.com/Imageshop/archive/2011/11/12/2246808.html)
+- [LLVM之父Chris Lattner：模块化设计决定AI前途，不服来辩](https://mp.weixin.qq.com/s/GOyR0cMMwUTLHdGaH0UqIg)
+- [LLVM之父Chris Lattner：编译器的黄金时代](https://mp.weixin.qq.com/s?__biz=MzU5ODY2MTk3Nw==&mid=2247487348&idx=1&sn=9e82bd030710246ce251dc3225a75781&chksm=fe418142c93608543f86b282330022d4755788c8627d93dae49ddfec8be1d79f778ac6c6f2fd&scene=21#wechat_redirect)
+- [两大图灵奖得主力作：计算机架构的新黄金时代](https://mp.weixin.qq.com/s?__biz=MzU5ODY2MTk3Nw==&mid=2247486907&idx=1&sn=e084c7684d2f0bdbe614f49cd8114285&chksm=fe41838dc9360a9b40603233851c5050447220706da797336575a1f34b572ff04d18baf940e8&scene=21#wechat_redirect)
+- [我和 Buddy Compiler 的故事](https://zhuanlan.zhihu.com/p/522831178?utm_source=wechat_timeline&utm_medium=social&utm_oi=643718314095022080&wechatShare=1&s_r=0)
+- [一文看懂align corners](https://zhuanlan.zhihu.com/p/87572724)
+- [百度阿波罗获雅析功能安全产品认证证书](https://mp.weixin.qq.com/s/5xLQENmI7b7UtDY8Sq4Srg)
+- [自动驾驶框架-AutoWare](https://zhuanlan.zhihu.com/p/404393482)
+- [链接器 gnu-ld](https://sourceware.org/binutils/docs/ld/)
+- [MegPeak——让你更懂你的处理器](https://zhuanlan.zhihu.com/p/522007924)，可以测试指令性能
+- [Basic Block Reordering](https://gcc.gnu.org/news/reorder.html)
+- [C++ Standard Core Language Closed Issues, Revision 108](https://www.open-std.org/jtc1/sc22/wg21/docs/cwg_closed.html)
+- [知乎：clang static analyzer](https://www.zhihu.com/column/clang-static-analyzer)
+- [attempt to speed up static analysis](https://lists.llvm.org/pipermail/cfe-dev/2015-August/044840.html)
+- [clang-tidy vs. clang static analyzer](https://lists.llvm.org/pipermail/cfe-dev/2015-September/044966.html)
+- [使用 llvm 分享的幻灯片](https://zhuanlan.zhihu.com/p/539217249?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=804265584396206080)
+- [machine learning compiler optimization based llvm](https://github.com/google/ml-compiler-opt)
+- [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E57201_01/html/E57330/z400228248508.html)
+- [知乎 - 那些编译器优化盲区](https://zhuanlan.zhihu.com/p/444410894)
+- [通用编译优化-AutoFDO学习](https://www.zangcq.com/2020/05/04/%e9%80%9a%e7%94%a8%e7%bc%96%e8%af%91%e4%bc%98%e5%8c%96-autofdo/)
+- [Roofline 与深度学习模型性能分析](https://zhuanlan.zhihu.com/p/34204282)
+- [一篇论文讲透cache优化](https://zhuanlan.zhihu.com/p/608663298)
+- [Linux 主流发行版主要组件及维护周期上的差异](https://zhuanlan.zhihu.com/p/586401652)，查看龙蜥编译器的版本
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/), 如何合理的可视化布局
+- [matrices to graphs](https://thepalindrome.org/p/matrices-and-graphs)
+- [怎样花两年时间去面试一个人](https://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)
+- [Trending Papers in Computer Science](https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories)
+
+# about debuggers
+- [https://godorz.info/tag/ptrace/](https://godorz.info/tag/ptrace/)
+- [https://zhuanlan.zhihu.com/p/336922639](https://zhuanlan.zhihu.com/p/336922639)
+
+# 通用编译技术
+
+1. [data flow analysis](https://pages.cs.wisc.edu/~horwitz/CS704-NOTES/2.DATAFLOW.html)
+2. [language design and implementation](https://web.eecs.umich.edu/~weimerw/2016-ldi/ca1.html)
+3. [Louis-Noël Pouchet: Colorado State University 的教授助理](https://www.cs.colostate.edu/~pouchet/)
+4. [what every programmers should known about compiler optimizations](https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations)
+5. [https://github.com/InBetweenNames/gentooLTO](https://github.com/InBetweenNames/gentooLTO), wiki 中详细介绍了 LTO 的工作原理
+6. a list of compiler books: [https://www.pianshen.com/post/81273657488/](https://www.pianshen.com/post/81273657488/)
+
+# ML Compiler
+
+1. [tvm mlir learn](https://github.com/BBuf/tvm_mlir_learn)
+2. [陈天奇 - machine learning compiler course](https://www.bilibili.com/video/BV1x8411t7t1/?spm_id_from=pageDriver)
+3. [BOLT：弥合自动调优和硬件原生性能之间的差距](https://zhuanlan.zhihu.com/p/498903171)
+4. [https://github.com/flame/how-to-optimize-gemm/wiki](https://github.com/flame/how-to-optimize-gemm/wiki) <How to Optimize GEMM>
+5. [https://github.com/tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm) <How to Optimize GEMM 中文版>
+6. [一文看懂Im2Col卷积加速算法](https://mp.weixin.qq.com/s?__biz=Mzg3MjYzMzkzOQ==&mid=2247483714&idx=1&sn=580f59ac3d6e84d217a3fd6dbaa31272&chksm=ceed027ef99a8b6887e6c465cb6ed1d772e3218925acd350ade92d1c1f1df1e25e0d1c684f7e&token=475413393&lang=zh_CN#rd)
+7. [Numpy 手写深度学习模型](https://github.com/ddbourgin/numpy-ml)
+8. [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem)，这是华为一个MindSpore 工程师提供的，在B站也有相关的视频
+
+## tvm
+
+1. [Calling external functions and passing arguments](https://discuss.tvm.apache.org/t/solved-calling-external-functions-and-passing-arguments/3760)
+
+## 算法优化
+
+1. 硬件，算法优化：[https://github.com/algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica)sta
+
+# Papers
+
+1. 阿里论文入口 [https://ata.alibaba-inc.com/articles/143038](https://ata.alibaba-inc.com/articles/143038)
+2. 何凯明新作 MAE: Masked Autoencoders [https://zhuanlan.zhihu.com/p/432848933](https://zhuanlan.zhihu.com/p/432848933)
+3. 深度学习论文精度：[https://github.com/mli/paper-reading](https://github.com/mli/paper-reading)
+4. machine learning for code: [https://ml4code.github.io/papers.html](https://ml4code.github.io/papers.html)
+
+# C++ JIT
+
+1. A just in time compiler for C++: [https://github.com/jmmartinez/easy-just-in-time](https://github.com/jmmartinez/easy-just-in-time)
+2. A just in time auto tuning compiler for C++: [https://github.com/kavon/atJIT](https://github.com/kavon/atJIT)
+
+# 书籍
+
+1. c and c++ compiling
+2. linkers and loaders
+3. 程序员的自我修养
+4. 编译器设计入门《introduction compilers and language design》: [https://www3.nd.edu/~dthain/compilerbook/](https://www3.nd.edu/~dthain/compilerbook/)
+5. Modern Compiler Implementation in ML: Basic Techniques
+6. Compilers: Principles, Techniques, and Tools (The Dragon Book)
+
+# Languages
+## CUDA Programming
+
+1. [cuda programming](https://face2ai.com/program-blog/)
+2. [cuda学习相关博客](https://godweiyang.com/2021/01/25/cuda-reading/#!)
+3. [gpu 内存管理](https://zhuanlan.zhihu.com/p/465299029)
+### NVDIA Technical Blog
+
+1. [How to Access Global Memory Efficiently in CUDA C/C++ Kernels](https://developer.nvidia.com/blog/how-access-global-memory-efficiently-cuda-c-kernels/)
+2. [How to Overlap Data Transfers in CUDA C/C++](https://developer.nvidia.com/blog/how-overlap-data-transfers-cuda-cc/)
+3. [How to Optimize Data Transfers in CUDA C/C++](https://developer.nvidia.com/blog/how-optimize-data-transfers-cuda-cc/)
+4. [Using Shared Memory in CUDA C/C++](https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/)
+
+# Course
+
+1. [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/)
+2. [https://ceunican.github.io/aos/](https://ceunican.github.io/aos/), G667,体系架构
+3. 计算机专业学习路线：[https://hackway.org/docs/cs/intro](https://hackway.org/docs/cs/intro)
+4. LLM University 大语言模型学习：[https://docs.cohere.com/docs/llmu](https://docs.cohere.com/docs/llmu)
+
+# 行业研究报告
+
+1. [https://www.mrbaogao.com](https://www.mrbaogao.com/cate/13/seq/0)
 
 # 其他文章
 - [高德纳 - 计算机界巨匠的生平](https://mp.weixin.qq.com/s?__biz=MjM5NzE1MDA0MQ==&mid=2247543173&idx=1&sn=95d2075139a7ef2efe295380f8ec7254&chksm=a6dc05b391ab8ca58543a6483a48af22cdb594d06fd5357ace918494ac3d810fe4022f97ba8c&mpshare=1&scene=1&srcid=1217G9S3ZXMhmxR3n9fyaeTQ&sharer_sharetime=1639704937213&sharer_shareid=3e18858a9f507d1e2dd63559973e67a2&exportkey=A0yTfCZJ%2F0mqDSqYL%2BtOzLA%3D&pass_ticket=5yULb%2FZ7LnCDjyVewwLCnbRpQhGFWp4wNZCK5cAAzhEy4a5IKXqAg6bNfIMg0cSE&wx_header=0#rd)
