@@ -75,6 +75,7 @@
 6. [一文看懂Im2Col卷积加速算法](https://mp.weixin.qq.com/s?__biz=Mzg3MjYzMzkzOQ==&mid=2247483714&idx=1&sn=580f59ac3d6e84d217a3fd6dbaa31272&chksm=ceed027ef99a8b6887e6c465cb6ed1d772e3218925acd350ade92d1c1f1df1e25e0d1c684f7e&token=475413393&lang=zh_CN#rd)
 7. [Numpy 手写深度学习模型](https://github.com/ddbourgin/numpy-ml)
 8. [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem)，这是华为一个MindSpore 工程师提供的，在B站也有相关的视频
+9. [OpenAI/Triton MLIR 迁移工作简介](https://superjomn.github.io/posts/triton-mlir-publish/)
 
 ## tvm
 
